@@ -9,10 +9,10 @@ namespace EventManagementSystem
         public Database()
         {
             
-            string server = "localhost";
-            string database = "EventManagementDB";
-            string userID = "root";
-            string password = "Am@986091";
+            string server = "";
+            string database = "";
+            string userID = "";
+            string password = "";
 
             _connectionString = $"Server={server};Database={database};User ID={userID};Password={password};";
             
