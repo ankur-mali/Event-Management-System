@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\domain\\models\\eventcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:domain\\models\\eventcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\application\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:application\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\infrastructure\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:infrastructure\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:application\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|d:\\job application project\\mbtion eventmanagementsystem\\eventmanagementsystem\\eventmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B574DA47-6F5A-4568-ADD1-2168C1DF3949}|EventManagementAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 144,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T16:13:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:02:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Application\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IEventService.cs",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Application\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:12:46.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Infrastructure\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\DatabaseContext.cs",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Infrastructure\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:15:51.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T15:59:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eventcs.cs",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Domain\\Models\\Eventcs.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Eventcs.cs",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Domain\\Models\\Eventcs.cs",
+              "RelativeToolTip": "Domain\\Models\\Eventcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:02:17.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Application\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\EventService.cs",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Application\\Services\\EventService.cs",
+              "RelativeToolTip": "Application\\Services\\EventService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T16:12:47.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Job Application Project\\MBtion EventManagementSystem\\EventManagementSystem\\EventManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T16:12:43.972Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

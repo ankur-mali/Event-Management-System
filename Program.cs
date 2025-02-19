@@ -8,7 +8,7 @@ namespace EventManagementSystem
     {
         static void Main(string[] args)
         {
-            EventService eventService = new EventService();
+            EventController eventService = new EventController();
             Console.WriteLine("Welcome to the Event Management System!");
 
             while (true)
@@ -69,7 +69,7 @@ namespace EventManagementSystem
             }
         }
 
-        static void CreateEvent(EventService eventService)
+        static void CreateEvent(EventController eventService)
         {
             Console.Write("Enter Event Name: ");
             string name = Console.ReadLine();
@@ -91,7 +91,7 @@ namespace EventManagementSystem
             Console.WriteLine($"Event created successfully with ID: {newEvent.Id}");
         }
 
-        static void ListEvents(EventService eventService)
+        static void ListEvents(EventController eventService)
         {
             var events = eventService.ListEvents();
             if (events.Count == 0)
@@ -107,7 +107,7 @@ namespace EventManagementSystem
             }
         }
 
-        static void GetEvent(EventService eventService, int id)
+        static void GetEvent(EventController eventService, int id)
         {
             var evt = eventService.GetEventById(id);
             if (evt == null)
@@ -120,7 +120,7 @@ namespace EventManagementSystem
             }
         }
 
-        static void UpdateEvent(EventService eventService, int id)
+        static void UpdateEvent(EventController eventService, int id)
         {
             Console.Write("Enter new Event Name (leave empty to keep current): ");
             string name = Console.ReadLine();
@@ -139,13 +139,13 @@ namespace EventManagementSystem
             Console.WriteLine(isUpdated ? "Event updated successfully!" : "Event not found.");
         }
 
-        static void DeleteEvent(EventService eventService, int id)
+        static void DeleteEvent(EventController eventService, int id)
         {
             bool isDeleted = eventService.DeleteEvent(id);
             Console.WriteLine(isDeleted ? "Event deleted successfully!" : "Event not found.");
         }
 
-        static void FilterEvents(EventService eventService, string[] command)
+        static void FilterEvents(EventController eventService, string[] command)
         {
             if (command.Length < 3)
             {
@@ -197,7 +197,7 @@ namespace EventManagementSystem
             }
         }
 
-        static void SearchEvents(EventService eventService, string keyword)
+        static void SearchEvents(EventController eventService, string keyword)
         {
             var searchResults = eventService.SearchEventsByKeyword(keyword);
             if (searchResults.Count == 0)
@@ -212,12 +212,12 @@ namespace EventManagementSystem
                 }
             }
         }
-        static void ExportEvents(EventService eventService, string filePath)
+        static void ExportEvents(EventController eventService, string filePath)
         {
             eventService.ExportEventsToCsv(filePath);
         }
 
-        static void ImportEvents(EventService eventService, string filePath)
+        static void ImportEvents(EventController eventService, string filePath)
         {
             eventService.ImportEventsFromCsv(filePath);
         }

@@ -44,9 +44,13 @@
               "target": "Package",
               "version": "[3.1.1, )"
             },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "MySql.Data": {
               "target": "Package",
-              "version": "[9.1.0, )"
+              "version": "[9.2.0, )"
             }
           },
           "imports": [
